@@ -1,2 +1,2 @@
 # delta-demo
-This is demo for delta web learning
+This is demo for delta web learning.
